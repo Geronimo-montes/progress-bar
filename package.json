@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Geronimo-montes/progress-bar/issues"
   },
-  "homepage": "https://github.com/Geronimo-montes/progress-bar#readme"
+  "homepage": "https://github.com/Geronimo-montes/progress-bar#readme",
+  "publishConfig": {
+    "@geronimo-montes": "registry=https://npm.pkg.github.com"
+  }
 }
