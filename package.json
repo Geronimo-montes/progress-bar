@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Geronimo-montes/progress-bar#readme",
   "publishConfig": {
+    "access": "public",
     "@geronimo-montes": "registry=https://npm.pkg.github.com"
   }
 }
